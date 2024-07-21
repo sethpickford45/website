@@ -141,3 +141,7 @@
   ul {
     list-style-type: none;
   }
+
+#invisiblename {
+    color: white;
+}
